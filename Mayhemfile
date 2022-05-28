@@ -1,5 +1,5 @@
 project: rnshah9/tldr-c-client
-target: tldr-c-client
+target: tldr
 
 cmds:
   - cmd: /repo/tldr -r @@
