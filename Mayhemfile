@@ -1,4 +1,4 @@
-project: rnshah9/tldr-c-client
+project: tldr-c-client
 target: tldr
 
 cmds:
