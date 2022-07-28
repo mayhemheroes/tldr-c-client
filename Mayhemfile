@@ -2,4 +2,4 @@ project: tldr-c-client
 target: tldr
 
 cmds:
-  - cmd: /repo/tldr -r @@
+  - cmd: /tldr -r @@
