@@ -8,6 +8,15 @@ will be removed after two major releases.
 
 ## [Unreleased]
 
+## v1.5.0 - 2022-07-03
+### Added
+- Add fish completion for `--list`, `--linux`, `--osx`, and `--sunos` flags
+
+### Fixed
+- Fix typo of "database" in the usage output
+- Fix fish completion not escaping characters
+- Make fish completion reflect actual usage of `tldr` better
+
 ## v1.4.3 - 2022-04-11
 ### Fixed
 - Fix segfault on trying to update cache
