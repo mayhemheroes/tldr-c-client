@@ -1,0 +1,6 @@
+project: tldr-c-client
+target: rround
+
+cmds:
+  - cmd: /fuzz_rround
+    libfuzzer: true
