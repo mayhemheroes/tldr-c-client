@@ -1,0 +1,13 @@
+
+[1m[39mrender-test
+[22m[39m
+[39mDeterministic parser exercise page.[22m[39m
+[39m Covers headers, descriptions, examples and [22m[39m[34mplaceholder[39m[31mhighlighting.
+[22m[39m
+[32m Run a command with an inline [22m[39m[34margument[39m[31mplaceholder:
+[22m[39m
+[31m    command --flag [22m[39m[34mvalue[39m[31m positional[22m[39m
+[32m
+- Pipe two commands together:[22m[39m
+[31m    first [22m[39m[34minput[39m[31m | second --out [22m[39m[34moutput[39m[31m[22m[39m
+

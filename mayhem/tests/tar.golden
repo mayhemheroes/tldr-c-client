@@ -1,0 +1,16 @@
+
+[1m[39mtar
+[22m[39m
+[39mArchiving utility.[22m[39m
+[39mOften combined with a compression method, such as gzip or bzip2.[22m[39m
+[39mMore information: <https://www.gnu.org/software/tar>.[22m[39m
+[32m
+- Create an archive from files:[22m[39m
+[31m    tar cf [22m[39m[34mtarget.tar[39m[31m [22m[39m[34mfile1[39m[31m [22m[39m[34mfile2[39m[31m [22m[39m[34mfile3[39m[31m[22m[39m
+[32m
+- Extract a (compressed) archive into the current directory:[22m[39m
+[31m    tar xf [22m[39m[34msource.tar[.gz|.bz2|.xz][39m[31m[22m[39m
+[32m
+- List the contents of a tar file:[22m[39m
+[31m    tar tvf [22m[39m[34msource.tar[39m[31m[22m[39m
+
